@@ -1,4 +1,4 @@
-# fritzbox-WAN-guide
+# fritzbox-WAN-guide-german
 ### Wie bekomme ich Internet im Wohnheim mit meiner FritzBox!?
 
 **! wichtiger allgemeiner Hinweis!:** Wenn man vorher ein anderes Gerät an dem Anschluss des Studierendenwerks benutzt hat(Computer oder Router) muss der Anschluss von dem/der Netztutor/Netztutorin erst wieder zurück gesetzt werden(mit ausgestecktem LAN-Kabel an der Wand) bevor man ein anderes Gerät konfigurieren kann.\
